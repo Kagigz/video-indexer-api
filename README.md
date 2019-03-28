@@ -12,7 +12,8 @@ In this sample, for each video in a given Video Indexer account, these fields ar
 - Keywords
 - Known faces
 
-Example console output:
+### Example console output
+
 ![Example console output](https://github.com/Kagigz/video-indexer-api/blob/master/videoindexeroutput.jpg)
 
 ## How to use
