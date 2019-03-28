@@ -4,7 +4,7 @@
 
 Azure function that calls the Video Indexer API to get any data from all the videos in an account.
 
-When you start the Azure function, you can call the API to get the selected data (example result in *result.json*).
+When you start the Azure function, you can call the API to get the selected data (example result in [*result.json*](https://github.com/Kagigz/video-indexer-api/blob/master/result.json)).
 
 In this sample, for each video in a given Video Indexer account, these fields are extracted from the video index:
 - ID
